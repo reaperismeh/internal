@@ -1,0 +1,3 @@
+LIBRARY CS2Poppins
+EXPORTS
+    DllMain
